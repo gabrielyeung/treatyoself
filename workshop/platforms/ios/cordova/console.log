@@ -1,0 +1,11 @@
+2014-02-21 14:23:44.361 Workshop[54365:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-21 14:23:44.370 Workshop[54365:a0b] Unlimited access to network resources
+2014-02-21 14:23:44.477 Workshop[54365:a0b] Resetting plugins due to page load.
+2014-02-21 14:23:44.577 Workshop[54365:a0b] Finished load of: file:///Users/tharman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/07DEE98B-7C78-47AA-8D5D-0E075A89F1B1/Workshop.app/www/index.html
+2014-02-21 14:23:44.601 Workshop[54365:a0b] Received Event: deviceready
+2014-02-21 16:00:24.439 Workshop[58165:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-21 16:00:24.450 Workshop[58165:a0b] Unlimited access to network resources
+2014-02-21 16:00:24.562 Workshop[58165:a0b] Resetting plugins due to page load.
+2014-02-21 16:00:24.631 Workshop[58165:a0b] Finished load of: file:///Users/tharman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/07DEE98B-7C78-47AA-8D5D-0E075A89F1B1/Workshop.app/www/index.html
+2014-02-21 16:00:24.655 Workshop[58165:a0b] Received Event: deviceready
+Terminating in response to SpringBoard's termination.
