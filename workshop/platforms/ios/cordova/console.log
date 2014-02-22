@@ -29,3 +29,11 @@ Terminating in response to SpringBoard's termination.
 2014-02-21 16:05:27.777 Workshop[45446:a0b] Finished load of: file:///Users/jcraig/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5EB5C861-9707-46D4-B724-F4E8575513A0/Workshop.app/www/index.html
 2014-02-21 16:05:27.814 Workshop[45446:a0b] Received Event: deviceready
 >>>>>>> 568a1cd5aa317b294fef977ca1cc7f68fea5d08c
+2014-02-21 17:52:48.489 Workshop[62053:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-21 17:52:48.499 Workshop[62053:a0b] Unlimited access to network resources
+2014-02-21 17:52:48.616 Workshop[62053:a0b] Resetting plugins due to page load.
+2014-02-21 17:52:48.671 Workshop[62053:a0b] Finished load of: file:///Users/tharman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/07DEE98B-7C78-47AA-8D5D-0E075A89F1B1/Workshop.app/www/index.html
+2014-02-21 17:52:55.927 Workshop[62053:a0b] Resetting plugins due to page load.
+2014-02-21 17:52:55.942 Workshop[62053:a0b] Finished load of: file:///Users/tharman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/07DEE98B-7C78-47AA-8D5D-0E075A89F1B1/Workshop.app/www/rate.html
+2014-02-21 17:53:01.196 Workshop[62053:a0b] Resetting plugins due to page load.
+2014-02-21 17:53:01.212 Workshop[62053:a0b] Finished load of: file:///Users/tharman/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/07DEE98B-7C78-47AA-8D5D-0E075A89F1B1/Workshop.app/www/review.html
